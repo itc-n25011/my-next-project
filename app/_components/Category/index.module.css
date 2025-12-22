@@ -1,0 +1,8 @@
+.tag {
+  background-color: var(--color-bg-sub);
+  color: var(--color-text-sub);
+  padding: 4px 8px;
+  border-radius: var(--border-radius);
+  white-space: nowrap;
+  font-size: 1rem;
+}
