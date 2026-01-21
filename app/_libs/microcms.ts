@@ -52,3 +52,5 @@ export const getNewsList = async (queries?: MicroCMSQueries) => {
   });
   return listData;
 };
+
+//おためし用
